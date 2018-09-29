@@ -30,5 +30,5 @@ github 操作
   $git remote add origin http://github.com/xxxx/xxx.git
   $git push origin master 提交
 
-
+用命令提交比Rstudio自带要好
 
